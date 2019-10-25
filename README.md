@@ -1,10 +1,13 @@
 # Base De Dados 4º Semestre
 
+## Base de dados: MariaDB
 ---
 
 ### Codigos SQL das base de dados 4 semestre
 #### **NÃO BAGUNÇAR O REPOSITORIO**
 
+## **INFORMAÇÃO**
+#### A partir da data de 25/10/2019 os codigos SQL são para aula no periodo noturno com a Professora Erika. Não mais diurno com a professora Patricia
 
 ## Copyright (c) 2019
 
