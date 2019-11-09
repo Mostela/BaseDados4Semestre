@@ -1,9 +1,9 @@
 /*
 DADOS AMOSTRAIS
 */
---INSERT INTO genero (id, nome) VALUES (nextval('seq_genero'), 'Terror'),
-  --                                   (nextval('seq_genero'), 'Ação'),
-  --                                   (nextval('seq_genero'), 'Drama');
+INSERT INTO genero (id, nome) VALUES (nextval('seq_genero'), 'Terror'),
+                                     (nextval('seq_genero'), 'Ação'),
+                                     (nextval('seq_genero'), 'Drama');
 
 INSERT INTO tipo (id, nome, valor, qtd_dias) VALUES
  (nextval('seq_tipo'), 'Lançamento', 8,1),
